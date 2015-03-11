@@ -67,4 +67,4 @@ http://software.endy.muhardin.com
 	*HTTP
 	*SSH
 	
-	# HARRY SUDAH DIUBAH
+	# HARRY SUDAH DIUBAH UNTUK KEDUA KALI
