@@ -1,0 +1,68 @@
+Endy Muhardin
+endy.muhardin@gmail.com
+http://software.endy.muhardin.com
+==========================================================================================================================================================
+
+# Version Control #
+	-menyimpan file dan folder
+	-bisa diakses oleh orang banyak
+	-akses kontrol
+	-konsolidasi perubahan
+	-history perubahan
+	-restore versi yang terdahulu
+	-membatalkan perubahan tertentu
+	-paralel development
+	
+	
+# Jenis-jenis Version Control #
+* Centralized
+	-database terpusat
+	-perubahan submit ke server
+	-ketika submit, harus terkoneksi dengan server
+	-cuma bisa 1 macam workflow
+	
+* Distributed	
+	-database masing2 orang
+	-perubahan submit ke database local
+	-submit perubahan tidak perlu koneksi kemana-mana
+	-database local bisa disinkronkan dengan database terpusat
+	-bisa macam2 workflow
+
+# Macam-macam produk/aplikasi Version Control #
+*Centralized
+	-CVS(open Source)
+	-Subversion(open Source)
+	-MS Source Safe(proprietary)
+*Distributed
+	-Git
+	-Mercurial
+	-Bazaar
+	-Bitkeeper(proprietary)
+	
+# Macam-macam layanan version control(project hosting) #
+*Sourceforge
+*Google Code
+*Github
+*Bitbucked
+
+
+
+# Git
+	-awalnya dibuat oleh Linus Torvalds
+	-karena konflik dengan Bitkeeper
+	
+# Git Server
+	*Gitolite(python, text-based)
+	*Gitblit(java, web-based)
+	*Gitlab (ruby, web-based)
+	
+# Git Client
+	*Git command line
+	*Git Gui
+	*Gitg
+	*TortoiseGit(windows explorer integration)
+	
+# Protokol Komunikasi
+	*File Lokal/Windows File Sharing
+	*HTTP
+	*SSH
